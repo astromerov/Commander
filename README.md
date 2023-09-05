@@ -1,12 +1,12 @@
-# py-bot-astro
+# 👾 DaddyBot-Astro
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description
+## 📚 Description
 
 **py-bot-astro** is a versatile Telegram bot designed to handle commands within Telegram Groups. Whether you want to manage your community, automate tasks, or just have fun, this bot has got you covered!
 
-## Features
+## 🌟 Features
 
 - **Command Handling:** Easily add custom commands that trigger specific actions.
 - **Group Management:** Help you manage your Telegram group effectively.
@@ -17,7 +17,7 @@
 - **Multilingual Support:** Reach a global audience with multi-language support.
 - **Open Source:** Customize and contribute to the project as it's open-source under the MIT License.
 
-## Installation
+## 🧩 Installation
 
 > 1. Clone the repository:
 
@@ -47,17 +47,17 @@ This is the link to bot in Telegram - [BotFather](https://www.t.me/BotFather)
    python main.py
    ```
 
-## Usage
+## 👩‍💻 Usage
 
 - Start a chat with your bot on Telegram.
 - Use `/help` to see a list of available commands and their descriptions.
 - Customize the bot by modifying `config.py` and adding your own plugins.
 
-## Contributing
+## 🤝Contribution
 
 Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
+## 📜🔐 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
