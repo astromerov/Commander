@@ -21,11 +21,5 @@ def help(message):
 def learn(message):
     bot.send_message(message.chat.id, "You can learn more about me at https://www.t.me/astromerov.")
 
-# Function to handle the /contact command
-@bot.message_handler(commands=['contact'])
-def contact(message):
-    user_id = message.from_user.id
-    contact_url = f"https://t.me/astromerov?start=chat&user={user_id}"
-
 # Start the bot
 bot.polling()
